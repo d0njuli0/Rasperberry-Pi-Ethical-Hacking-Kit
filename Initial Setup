@@ -5,4 +5,4 @@ Separate the two pieces of the plastic case and safely seat the RPI inside of it
 Insert the SD card into a computer or laptop and flash an OS onto it. For this project, we’re using the latest release of Kali Linux. The imager made specifically for RPI’s can be found here, with a more in-depth guide on flashing and configuring an OS (with Wi-Fi, SSH settings, etc). Once finished, safely eject the SD card and insert it into your RPI.
 By this point, your RPI is in the final stages of setup. All that remains is plugging in the necessary cables for your setup (ethernet if you choose not to use Wi-Fi, power cable, HDMI).
 Power on your RPI and allow it to fully boot. If all of the previous steps were done correctly, your RPI should display the login screen for Kali Linux. The default credentials are: User - Kali, Password - Kali.
-![Kali Linux Login Screen](/images/kalilogin.jpg)
+![Kali Linux Login Screen](/images/kalilogin.jpg
