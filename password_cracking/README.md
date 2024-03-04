@@ -3,7 +3,7 @@
 To begin with our password cracking demonstration we utilized ChatGPT to help create a script to generate passwords with parameters of our choosing. This took a while, because the AI struggled to make the script run properly. However, after some troubleshooting, we realized we needed to make a file that included symbols so we could utilize them in the password generation. 
 
 1. **Generate Passwords Script:**
-    - Utilize the [script](script/script.ps1) we have provided for generating passwords. If you are lazy we have a sample wordlist [here.](/script/passwords1.txt)
+    - Utilize the [script](script/script.ps1) we have provided for generating passwords. If you are lazy we have a sample wordlist [here.](script/passwords1.txt)
     - Ensure the script can include symbols in the generated passwords.
 
 2. **Research on Hydra:**
