@@ -41,4 +41,4 @@ For further reading and exploration, you may find additional resources in the fo
 ---
 **Note:** Remember to always use cybersecurity techniques responsibly and for legitimate purposes only. Stay ethical, stay safe!
 
-(images/kalilogin.jpg)
+
