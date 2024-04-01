@@ -17,3 +17,8 @@ The first step in setting up your Raspberry Pi begins with unboxing it and assem
    - Password: Kali
 
 ![kalilogin](https://github.com/d0njuli0/Rasperberry-Pi-Ethical-Hacking-Kit/assets/161734481/a4570b98-eea4-46b2-88d2-2dae715359d5)
+
+7. Make sure to enable the firewall with 'sudo ufw enable'
+
+8. It is also important to install programs to scan for potential rootkits on your system. Run 'sudo apt-get install chkrootkit' in the terminal.
+
