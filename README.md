@@ -1,6 +1,6 @@
-# Password Cracking, Phishing, and Wardriving Class Project
+# Password Cracking and Wardriving Class Project
 
-Welcome to our class project repository focusing on password cracking, phishing, and wardriving techniques. This repository contains resources, tools, and documentation for educational purposes.
+Welcome to our class project repository focusing on password cracking and wardriving techniques. This repository contains resources, tools, and documentation for educational purposes.
 
 **Ethical Use Disclaimer:**  
 Please note that all files and tools provided in this repository are for educational purposes only. Any use of these resources should be in compliance with ethical guidelines and applicable laws. Unauthorized or malicious use is strictly prohibited.
@@ -10,7 +10,6 @@ Please note that all files and tools provided in this repository are for educati
 This project aims to explore and understand various cybersecurity techniques, including:
 
 - Password cracking
-- Phishing attacks
 - Wardriving techniques
 
 ## Contents
